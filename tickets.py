@@ -40,7 +40,7 @@ def display_results():
     print('Sales Tax     $ ' + format(sales_tax,'8,.2f'))
     print('Total         $ ' + format(total,'8,.2f'))
     print('------------------------------')
-    print(str(datetime.dateime.now()))
+    
 
     
 
